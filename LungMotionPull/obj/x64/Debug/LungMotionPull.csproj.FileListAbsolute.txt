@@ -1,0 +1,7 @@
+\\oncology-is\VA_DATA$\physicists\ESAPI Scripting\Carl's projects\Projects\LungMotionPull\bin\x64\Debug\LungMotionPull.exe
+\\oncology-is\VA_DATA$\physicists\ESAPI Scripting\Carl's projects\Projects\LungMotionPull\bin\x64\Debug\LungMotionPull.pdb
+\\oncology-is\VA_DATA$\physicists\ESAPI Scripting\Carl's projects\Projects\LungMotionPull\obj\x64\Debug\LungMotionPull.exe
+\\oncology-is\VA_DATA$\physicists\ESAPI Scripting\Carl's projects\Projects\LungMotionPull\obj\x64\Debug\LungMotionPull.pdb
+\\oncology-is\VA_DATA$\physicists\ESAPI Scripting\Carl's projects\Projects\LungMotionPull\obj\x64\Debug\LungMotionPull.csprojAssemblyReference.cache
+\\oncology-is\VA_DATA$\physicists\ESAPI Scripting\Carl's projects\Projects\LungMotionPull\obj\x64\Debug\LungMotionPull.csproj.CoreCompileInputs.cache
+\\oncology-is\VA_DATA$\physicists\ESAPI Scripting\Carl's projects\Projects\LungMotionPull\bin\x64\Debug\LungMotionPull.exe.config
